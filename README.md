@@ -1,6 +1,14 @@
-## Exercise Tracker
+# Exercise Tracker
 
 #### A microservice project, part of Free Code Camp's curriculum
+
+## About
+It is a microservice project as required by freecodecamp. This is built using boilerplate from [this repo](https://github.com/freeCodeCamp/boilerplate-project-exercisetracker/). The service can be seen live at[https://sand-galaxy.glitch.me/].
+
+### File Summary
+The `server.js` is the main script file in which routes are set to be handled by the functions defined in `routes/api.js`. Also the `model.js` contain the only schema used in this project.
+
+## API Project: Exercise Tracker
 
 ### User Stories
 
